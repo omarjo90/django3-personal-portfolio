@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="features.browser" />
+          <option value="features.pages" />
+          <option value="udr_endpoint_scripts.admin_endpoints.UDR_API" />
+          <option value="udr_endpoint_scripts.lease_endpoints.UDR_API" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
